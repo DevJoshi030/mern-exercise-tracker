@@ -12,7 +12,7 @@ app.use(express.json({ extended: false }));
 app.use(express.urlencoded({ extended: false }));
 
 if (process.env.NODE_ENV === 'production') {
-    app.use(express.static("../build/static"));
+    app.use(express.static("../build/"));
 }
 
 const uri = process.env.ATLAS_URI;
