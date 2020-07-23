@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de106a2f05cc2f47d6f4bba3cb53266c",
+    "revision": "991d4b6d84a832b21e69e581fa78594b",
     "url": "/mern-exercise-tracker/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mern-exercise-tracker/static/js/2.4598c46e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa53bdd134e9dba34426",
-    "url": "/mern-exercise-tracker/static/js/main.1509dc38.chunk.js"
+    "revision": "15a4ef33e155a8656199",
+    "url": "/mern-exercise-tracker/static/js/main.14f4d822.chunk.js"
   },
   {
     "revision": "973bbe73b3a9e0cade15",
